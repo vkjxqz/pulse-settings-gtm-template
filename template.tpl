@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Pulse settings",
-  "description": "",
+  "description": "This is an unofficial template for settings for pulse tracking tag",
   "categories": [
     "ANALYTICS"
   ],
